@@ -1,0 +1,33 @@
+.login {
+  text-align: center;
+  margin-top: 50px;
+  border: solid rgb(249, 245, 245) 2px;
+  width: 450px;
+  height: 350px;
+  padding-top: 50px;
+  margin-left: 33%;
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px  rgb(62, 43, 114);
+  /* color: white; */
+}
+body {
+  background-size: cover;
+ 
+}
+#txt {
+  width: 280px;
+  height: 25px;
+}
+#tt {
+  width: 280px;
+  height: 25px;
+}
+.ka {
+  width: 110px;
+  height: 26px;
+}
+#Btn2 {
+  width: 250px;
+}
